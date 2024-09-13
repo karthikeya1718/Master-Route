@@ -22,8 +22,8 @@ On top of the pathfinding algorithms listed above, I implemented a Recursive Div
 
 
 # How to run the application
-Method-1
-npm install
-node app.js or nodemon app.js
-Method-2
+Method-1  
+npm install  
+node app.js or nodemon app.js  
+Method-2  
 Open index.html file and run it directly in your IDE.
