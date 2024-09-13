@@ -23,7 +23,7 @@ On top of the pathfinding algorithms listed above, I implemented a Recursive Div
 
 # How to run the application
 Method-1  
-npm install 
+npm install  
 npm i express  
 node app.js or nodemon app.js  
 Method-2  
