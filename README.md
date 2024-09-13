@@ -21,7 +21,7 @@ Depth-first Search (unweighted): a very bad algorithm for pathfinding; does not 
 On top of the pathfinding algorithms listed above, I implemented a Recursive Division Maze Generation algorithm.
 
 
-#How to run the application
+# How to run the application
 Method-1
 npm install
 node app.js or nodemon app.js
